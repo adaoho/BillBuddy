@@ -2,4 +2,4 @@
 
 # Bill Buddy
 
-Bill Buddy is a user-friendly and efficient expense-splitting application, developed as part of an individual project during the second phase of my bootcamp journey. Seamlessly manage shared expenses among friends, roommates, or colleagues by easily dividing bills and tracking who owes what. 
+Introducing Bill Buddy, my phase 2 bootcamp project! Simplify expense-splitting with ease. Track shared costs, settle debts effortlessly, and focus on shared experiences. Making splitting bills a breeze in the world of personal finance.
